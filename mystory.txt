@@ -13,6 +13,4 @@ this was added after it was pushed to GitHub
 
 (P2) My favorite food is smoothies.
 (P3) My favorite food is steak. 
-
-(P2) My favorite food is smoothies. 
 (PN) My favorite food is curry.
